@@ -1,8 +1,8 @@
 ### Olá! Eu sou Tiago Angeli! 👋
 
 - 🔎 Buscando oportunidades para ingressar no mercado de trabalho
-- 🌱 Estou estudando Python
-- 😄 Pronomes: ele/dele
+- 🌱 Estudando Python
+
 
 - <div>
  [![Agente Developer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgenteDeveloper&show_icons=true&theme=tokyonight)](https://github.com/AgenteDeveloper/github-readme-stats)
